@@ -3,7 +3,7 @@ Name  :- Neer Patel
 
 Roll no :- DA25M021
 
-# -Based Synthetic Sampling for Imbalanced Data
+# GMM-Based Synthetic Sampling for Imbalanced Data
 
 ## 📌 Overview
 This project implements **Gaussian Mixture Model (GMM)-based synthetic sampling** to address class imbalance in a credit card fraud detection dataset.  
